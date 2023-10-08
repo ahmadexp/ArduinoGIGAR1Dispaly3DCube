@@ -3,6 +3,4 @@ A 3D cube demo for the Arduino GIGA R1 Display pulling AHRS info from the BMI270
 
 You need to install a bunch of libraries from the Library Manager. 
 
-![Arduino Giga R1 Display](https://github.com/ahmadexp/ArduinoGigaR1Dispaly3DCube/blob/main/picture.jpg)
-
 ![Arduino Giga R1 Display](https://github.com/ahmadexp/ArduinoGigaR1Dispaly3DCube/blob/main/videogif.gif)
