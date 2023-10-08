@@ -5,4 +5,4 @@ You need to install a bunch of libraries from the Library Manager.
 
 ![Arduino Giga R1 Display](https://github.com/ahmadexp/ArduinoGigaR1Dispaly3DCube/blob/main/picture.jpg)
 
-![Arduino Giga R1 Display](https://github.com/ahmadexp/ArduinoGigaR1Dispaly3DCube/blob/main/video.mp4)
+![Arduino Giga R1 Display](https://github.com/ahmadexp/ArduinoGigaR1Dispaly3DCube/blob/main/videogif.gif)
